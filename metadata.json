@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Excel Interaktif IFP",
+  "description": "Aplikasi kuis interaktif untuk Interactive Flat Panel (IFP) dan proyektor kelas dengan deteksi gerak kamera MediaPipe, audio efek ceria, bank soal Excel lengkap, dan kontrol guru.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
